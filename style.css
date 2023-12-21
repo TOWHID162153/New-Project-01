@@ -20,7 +20,13 @@ section{
 .half-img{
     width: 65%;
     padding-left: 2%;
+    
 }
 .button{
-    
+    text-decoration: none;
+    background-image: linear-gradient(aqua, blue);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+
 }
