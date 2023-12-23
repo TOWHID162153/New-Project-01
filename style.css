@@ -1,8 +1,9 @@
 body{
     font-family: 'Lato', sans-serif;
+    margin: 0;
 }
 h1{
-    font-size: 50px;
+    font-size: 75px;
 }
 .blue{
     color: rgb(8, 8, 211);
@@ -12,14 +13,14 @@ section{
 }
 .half{
     width: 65%;
-    padding: 2% 6%;
+    padding: 5%;
 }
 .half{
 
 }
 .half-img{
-    width: 65%;
-    padding-left: 2%;
+    width: 70%;
+    padding-left: 5%;
     
 }
 .button{
@@ -28,5 +29,16 @@ section{
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
+}
+.s1-bg{
+    background-image: url(/images/s1\ bg_.jpg);
+    padding: 0;
+    background-repeat: no-repeat;
+
+}
+.s2-bg{
+    background-image: url(/images/s2\ bg_.jpg);
+    padding: 0;
+    background-repeat: no-repeat;
 
 }
