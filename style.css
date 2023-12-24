@@ -45,6 +45,7 @@ h1{
     margin-right: 5%;
     margin-bottom: 5%;
     padding-left: 20px;
+    border-radius: 5%;
     box-shadow: 10px 10px 30px gray;
 
 }
@@ -53,4 +54,13 @@ h1{
     padding: 0;
     background-repeat: no-repeat;
     background-position: right;
+}
+#left{
+    border-left: 7px solid blue;
+}
+#right{
+    border-left: 7px solid rgb(148, 0, 104);
+}
+footer p{
+    text-align: center;
 }
