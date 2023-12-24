@@ -8,15 +8,12 @@ h1{
 .blue{
     color: rgb(8, 8, 211);
 }
-section{
+.flexable-container{
     display: flex;
 }
 .half{
     width: 65%;
     padding: 5%;
-}
-.half{
-
 }
 .half-img{
     width: 70%;
@@ -41,4 +38,19 @@ section{
     padding: 0;
     background-repeat: no-repeat;
 
+}
+.shadow{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 30px gray;
+
+}
+.last-bg{
+    background-image: url(/images/header_bg.png);
+    padding: 0;
+    background-repeat: no-repeat;
+    background-position: right;
 }
